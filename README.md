@@ -14,4 +14,4 @@ Planning de l’événement weektalk
 | Nolan | RxJS, le `lodash` des événements | ~1h |
 | Nolan | Storybook, un environnement de développement d'interfaces utilisateurs | ~ 30min |
 | Nolan | Mon `.gitconfig` et comment je l'utilise | ~1h |
-
+| Xavier | Dealer avec les utilisateurs daltoniens | ~30min |
