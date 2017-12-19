@@ -11,3 +11,7 @@ Planning de l’événement weektalk
 | DeltaEvo | Monitoring avec la Stack Grafana-InfluxDB-Telegraf-StatsD | ~2h |
 | DeltaEvo | GraphQL "schema-driven" avec Node + monitoring | ~1h |
 | DeltaEvo | WASM et Rust | ~1h |
+| Nolan | RxJS, le `lodash` des événements | ~1h |
+| Nolan | Storybook, un environnement de développement d'interfaces utilisateurs | ~ 30min |
+| Nolan | Mon `.gitconfig` et comment je l'utilise | ~1h |
+
