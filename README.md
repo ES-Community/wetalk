@@ -5,7 +5,9 @@ Planning de l’événement weektalk
 
 | Présentateur | Sujet | Durée |
 | --- | --- | --- |
-| Fraxken | Présentation de SlimIO (Monitoring system avec Node.JS, Rust et C++) | ~1h |
+| Fraxken (Thomas.G) | Présentation de SlimIO (Monitoring system avec Node.JS, Rust et C++) | ~1h |
+| Fraxken (Thomas.G) | Présentation du Framework Loopback V3.x | ~30min | 
+| Fraxken (Thomas.G) | Présentation de Perl5 et de mon projet SEALang | ~1h | 
 | DeltaEvo | Présentation de NixOS et de mon voyage au travers les distributions Linux | ~1h |
 | DeltaEvo | NeoVim ftw par un Noob (Presentation de NeoVim et de sa nouvelle puissance grâce au LSP) | ~1h |
 | DeltaEvo | Monitoring avec la Stack Grafana-InfluxDB-Telegraf-StatsD | ~2h |
