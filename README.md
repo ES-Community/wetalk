@@ -17,3 +17,4 @@ Planning de l’événement weektalk
 | Nolan | Storybook, un environnement de développement d'interfaces utilisateurs | ~ 30min |
 | Nolan | Mon `.gitconfig` et comment je l'utilise | ~1h |
 | Xavier | Dealer avec les utilisateurs daltoniens | ~30min |
+| TnTakara (Adrien) | REST est un échec (ou *Pourquoi se tourner vers les alternatives plus récentes ?*) | ~1h |
