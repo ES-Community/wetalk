@@ -8,7 +8,6 @@ Planning de l’événement weektalk
 | Fraxken (Thomas.G) | Présentation de SlimIO (Monitoring system avec Node.JS, Rust et C++) | ~1h |
 | Fraxken (Thomas.G) | Présentation du Framework Loopback V3.x | ~30min | 
 | Fraxken (Thomas.G) | Présentation de Perl5 et de mon projet SEALang | ~1h | 
-| DeltaEvo | Présentation de NixOS et de mon voyage au travers les distributions Linux | ~1h |
 | DeltaEvo | NeoVim ftw par un Noob (Presentation de NeoVim et de sa nouvelle puissance grâce au LSP) | ~1h |
 | DeltaEvo | Monitoring avec la Stack Grafana-InfluxDB-Telegraf-StatsD | ~2h |
 | DeltaEvo | GraphQL "schema-driven" avec Node + monitoring | ~1h |
@@ -18,3 +17,13 @@ Planning de l’événement weektalk
 | Nolan | Mon `.gitconfig` et comment je l'utilise | ~1h |
 | Xavier | Dealer avec les utilisateurs daltoniens | ~30min |
 | TnTakara (Adrien) | REST est un échec (ou *Pourquoi se tourner vers les alternatives plus récentes ?*) | ~1h |
+
+## Historique
+
+### Weektalk 1
+Date: 10/03/2018
+
+| Présentateur | Sujet | Durée |
+| --- | --- | --- |
+| Fraxken (Thomas.G) | Présentation de mes travaux sur l'event-loop Libuv (et Node) | 30min |
+| DeltaEvo | Présentation de NixOS et de mon voyage au travers les distributions Linux | ~1h |
