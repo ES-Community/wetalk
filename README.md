@@ -16,14 +16,22 @@ Planning de l’événement weektalk
 | Nolan | Storybook, un environnement de développement d'interfaces utilisateurs | ~ 30min |
 | Nolan | Mon `.gitconfig` et comment je l'utilise | ~1h |
 | Xavier | Dealer avec les utilisateurs daltoniens | ~30min |
-| TnTakara (Adrien) | REST est un échec (ou *Pourquoi se tourner vers les alternatives plus récentes ?*) | ~1h |
 
 ## Historique
 
 ### Weektalk 1
 Date: 10/03/2018
+Lien youtube: https://www.youtube.com/watch?v=zv1oFDkP2tI&t=3s
 
 | Présentateur | Sujet | Durée |
 | --- | --- | --- |
 | Fraxken (Thomas.G) | Présentation de mes travaux sur l'event-loop Libuv (et Node) | 30min |
 | DeltaEvo | Présentation de NixOS et de mon voyage au travers les distributions Linux | ~1h |
+
+### Weektalk 2
+Date: 31/05/2018
+Lien youtube: https://youtu.be/1gAtHMY9h-Q
+
+| Présentateur | Sujet | Durée |
+| --- | --- | --- |
+| TnTakara (Adrien) | REST est un échec (ou *Pourquoi se tourner vers les alternatives plus récentes ?*) | ~1h |
