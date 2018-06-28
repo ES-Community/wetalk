@@ -9,6 +9,7 @@ Planning de l’événement weektalk
 | Fraxken | Présentation du Framework Loopback V3.x | ~30min | 
 | Fraxken | Présentation de Perl5 et de mon projet SEALang | ~1h |
 | Fraxken | Coaching mental pour développeur | ~20-30min |
+| Fraxken | Présentation d'une nouvelle approche des tests (et QA) | ~20-30min |
 | DeltaEvo | NeoVim ftw par un Noob (Presentation de NeoVim et de sa nouvelle puissance grâce au LSP) | ~1h |
 | DeltaEvo | Monitoring avec la Stack Grafana-InfluxDB-Telegraf-StatsD | ~2h |
 | DeltaEvo | GraphQL "schema-driven" avec Node + monitoring | ~1h |
