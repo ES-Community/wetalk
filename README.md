@@ -44,3 +44,13 @@ Lien youtube: https://www.youtube.com/watch?v=ywJJRo7SAI8
 | --- | --- | --- |
 | Fraxken | Coaching mental pour développeur | ~20-30min |
 | Fraxken | Présentation d'une nouvelle approche des tests (et QA) | ~20-30min |
+
+### Weektalk 4
+Date: 16/08/2018
+Lien youtube: https://www.youtube.com/watch?v=5XmNADiz8Sc
+
+| Présentateur | Sujet | Durée |
+| --- | --- | --- |
+| Romain Lanz | framework Node AdonisJS | ~1h40 |
+
+
