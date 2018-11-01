@@ -53,4 +53,11 @@ Lien youtube: https://www.youtube.com/watch?v=5XmNADiz8Sc
 | --- | --- | --- |
 | Romain Lanz | framework Node AdonisJS | ~1h40 |
 
+### Weektalk 5
+Date: 20/09/2018
+Lien youtube: https://www.youtube.com/watch?v=_onjCxViPu8
+
+| Présentateur | Sujet | Durée |
+| --- | --- | --- |
+| Michaël Zasso | ECMAScript proposals | ~1h50 |
 
